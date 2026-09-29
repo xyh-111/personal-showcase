@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+
+# Large video (125MB > GitHub 100MB limit, compress before adding)
+videos/智扫通Agent.mp4
